@@ -1,0 +1,59 @@
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:04:26.190Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:07:25.535Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:09:35.477Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:10:24.947Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:12:40.660Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:16:07.307Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:35:11.507Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:35:58.501Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:40:58.445Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:41:16.768Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:41:45.214Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:45:02.262Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:46:06.771Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:46:58.911Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:48:24.953Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:49:19.914Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T17:58:59.063Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T18:09:50.741Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T18:28:50.889Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T20:09:40.903Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T20:25:37.091Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T20:45:06.329Z"}
+{"level":"info","message":"Create new client: 7f917b0a-91c3-4b93-93b1-4082da1cf47f","timestamp":"2021-02-09T20:46:11.626Z"}
+{"level":"info","message":"Client disconnect: 7f917b0a-91c3-4b93-93b1-4082da1cf47f","timestamp":"2021-02-09T20:46:42.632Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T20:55:22.433Z"}
+{"level":"info","message":"Create new client: 7502deeb-ed04-4733-b587-07330bc56ff5","timestamp":"2021-02-09T20:56:35.564Z"}
+{"level":"info","message":"Client disconnect: 7502deeb-ed04-4733-b587-07330bc56ff5","timestamp":"2021-02-09T20:57:00.413Z"}
+{"level":"info","message":"Create new client: 263a3f8c-9b25-4ac7-840e-fba028d29067","timestamp":"2021-02-09T20:57:01.396Z"}
+{"level":"info","message":"Client disconnect: 263a3f8c-9b25-4ac7-840e-fba028d29067","timestamp":"2021-02-09T20:58:03.867Z"}
+{"level":"info","message":"Create new client: eb008015-8462-4c7e-a280-fa7740c73278","timestamp":"2021-02-09T20:58:18.162Z"}
+{"level":"info","message":"Client disconnect: eb008015-8462-4c7e-a280-fa7740c73278","timestamp":"2021-02-09T20:58:27.945Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T20:58:53.841Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T21:50:17.953Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:08:09.593Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:10:18.056Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:14:03.570Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:15:18.884Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:15:53.690Z"}
+{"code":"EADDRINUSE","errno":-98,"syscall":"listen","address":"::","port":1337,"level":"error","timestamp":"2021-02-09T22:16:32.195Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:17:00.847Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-09T22:18:17.376Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:22:16.096Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:22:37.178Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:24:40.496Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:25:15.480Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:25:49.081Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:26:03.678Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:31:04.888Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:31:41.424Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:32:04.821Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:34:49.724Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:35:02.368Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T00:35:54.599Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:03:41.151Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:08:24.883Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:15:36.870Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:24:14.131Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:24:56.369Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-10T01:26:47.156Z"}

@@ -1,0 +1,116 @@
+
+li a:hover:not(.active) {
+  color: 'white';
+  text-decoration: none;
+}
+
+a:hover:not(.active) {
+  color: 'white';
+  text-decoration: none;
+}
+
+* {
+  font-family: 'Sahel';
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.spinner {
+  animation: spin infinite 5s linear;
+
+  /*You can increase or decrease the timer (5s) to 
+   increase or decrease the speed of the spinner*/
+}
+
+@keyframes spin {
+from {
+  transform: rotate(0deg);
+}
+to {
+  transform: rotate(360deg);
+}
+}
+
+.animated-btn {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  line-height: 80px;
+  display: inline-block;
+  text-align: center;
+  background: #ff3f3f;
+  position: relative;
+}
+
+.animated-btn::before, .animated-btn::after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background: rgba(255, 63, 63, 0.8);
+  animation: ripple-1 2s infinite ease-in-out;
+  z-index: -1;
+}
+
+.animated-btn::after {
+  background: rgba(255, 63, 63, 0.6);
+  animation: ripple-2 2s infinite ease-in-out;
+  animation-delay: 0.5s;
+}
+
+@keyframes ripple-1 {
+  0% {
+      transform: scale(1);
+      opacity: 1;
+  }
+
+  100% {
+      transform: scale(1.5);
+      opacity: 0;
+  }
+}
+
+@keyframes ripple-2 {
+  0% {
+      transform: scale(1);
+      opacity: 1;
+  }
+
+  100% {
+      transform: scale(1.7);
+      opacity: 0;
+  }
+}
+
+@keyframes flickerAnimation {
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-o-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-moz-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+.animate-flicker {
+   -webkit-animation: flickerAnimation 5s infinite;
+   -moz-animation: flickerAnimation 5s infinite;
+   -o-animation: flickerAnimation 5s infinite;
+    animation: flickerAnimation 5s infinite;
+}

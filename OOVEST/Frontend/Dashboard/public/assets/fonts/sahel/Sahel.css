@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Sahel;
+    src: url('Sahel.eot');
+    src: url('Sahel.eot?#iefix') format('embedded-opentype'),
+         url('Sahel.woff2') format('woff2'),
+         url('Sahel.woff') format('woff'),
+         url('Sahel.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: Sahel;
+    src: url('Sahel-Bold.eot');
+    src: url('Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Sahel-Bold.woff2') format('woff2'),
+         url('Sahel-Bold.woff') format('woff'),
+         url('Sahel-Bold.ttf') format('truetype');
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: Sahel;
+    src: url('Sahel-Light.eot');
+    src: url('Sahel-Light.eot?#iefix') format('embedded-opentype'),
+         url('Sahel-Light.woff2') format('woff2'),
+         url('Sahel-Light.woff') format('woff'),
+         url('Sahel-Light.ttf') format('truetype');
+    font-weight: 300;
+  }

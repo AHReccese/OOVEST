@@ -1,0 +1,2 @@
+{"code":"EADDRINUSE","errno":-98,"syscall":"listen","address":"::","port":8080,"level":"error","timestamp":"2021-02-08T14:47:31.521Z"}
+{"code":"EADDRINUSE","errno":-98,"syscall":"listen","address":"::","port":8080,"level":"error","timestamp":"2021-02-08T14:47:57.467Z"}
